@@ -1,0 +1,24 @@
+<application>
+  <component name="CodeInsightSettings">
+    <option name="completionCaseSensitive" value="2" />
+    <option name="COMPLETION_CASE_SENSITIVE" value="2" />
+    <option name="ADD_IMPORTS_ON_PASTE" value="3" />
+    <option name="USE_INSTANCEOF_ON_EQUALS_PARAMETER" value="true" />
+    <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
+  </component>
+  <component name="DaemonCodeAnalyzerSettings" profile="copy" />
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="18" />
+    <option name="FONT_FAMILY" value="FTEebcd1" />
+    <option name="FONT_REGULAR_SUB_FAMILY" value="Regular" />
+    <option name="FONT_BOLD_SUB_FAMILY" value="Regular" />
+    <option name="USE_LIGATURES" value="true" />
+  </component>
+  <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="" />
+    <option name="TOOLTIPS_DELAY_MS" value="300" />
+  </component>
+  <component name="InlayHintsSettings">
+    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
+  </component>
+</application>

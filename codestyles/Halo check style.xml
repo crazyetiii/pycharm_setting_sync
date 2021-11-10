@@ -1,0 +1,5 @@
+<code_scheme name="Halo check style" version="173">
+  <codeStyleSettings language="JAVA">
+    <option name="SPACE_BEFORE_ARRAY_INITIALIZER_LBRACE" value="true" />
+  </codeStyleSettings>
+</code_scheme>

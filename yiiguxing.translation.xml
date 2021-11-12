@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="529" />
     <option name="newTranslationDialogY" value="203" />
     <histories>
+      <item value="Jonathan" />
       <item value="track" />
       <item value="Epic" />
       <item value="complement" />
@@ -54,7 +55,6 @@
       <item value="Instance" />
       <item value="singletons Currently In Destruction" />
       <item value="before Singleton Creation" />
-      <item value="Creation" />
     </histories>
     <option name="languageScores">
       <map>

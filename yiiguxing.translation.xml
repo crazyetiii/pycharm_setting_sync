@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="529" />
     <option name="newTranslationDialogY" value="203" />
     <histories>
+      <item value="complier" />
       <item value="Supplier" />
       <item value="Covariant Arrays" />
       <item value="Jonathan" />
@@ -54,7 +55,6 @@
       <item value="Modifiers" />
       <item value="Dispatcher Servlet" />
       <item value="Eagerly check singleton cache for manually registered singletons" />
-      <item value="Instance" />
     </histories>
     <option name="languageScores">
       <map>

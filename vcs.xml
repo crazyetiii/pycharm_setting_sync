@@ -10,9 +10,13 @@
           <option name="url" value="git@github.com:crazyetiii/halo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitee.com:crazyetiii/design-patterns-java.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\ocean\code\javaPro\TotalProject" />
+    <option name="cloneParentDir" value="A:\ocean\code\allPros" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">

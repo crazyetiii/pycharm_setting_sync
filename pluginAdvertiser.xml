@@ -7,11 +7,6 @@
             <FeaturePluginsList>
               <option name="featureMap">
                 <map>
-                  <entry key="#com.intellij.j2ee.web.jsr45.JSR45ConfigurationFactory">
-                    <value>
-                      <FeaturePluginData displayName="JSR45 Compatible Server" pluginName="Debugger Support for JSP (JSR45)" pluginId="JSR45Plugin" bundled="true" />
-                    </value>
-                  </entry>
                   <entry key="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory">
                     <value>
                       <FeaturePluginData displayName="Tomcat 服务器" pluginName="Tomcat and TomEE" pluginId="Tomcat" bundled="true" />
@@ -37,24 +32,9 @@
                       <FeaturePluginData displayName="Android Instrumented Tests" pluginName="Android" pluginId="org.jetbrains.android" bundled="true" />
                     </value>
                   </entry>
-                  <entry key="AntRunConfiguration">
-                    <value>
-                      <FeaturePluginData displayName="Ant Target" pluginName="Ant" pluginId="AntSupport" bundled="true" />
-                    </value>
-                  </entry>
                   <entry key="Application">
                     <value>
                       <FeaturePluginData displayName="应用程序" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
-                    </value>
-                  </entry>
-                  <entry key="ArquillianJUnit">
-                    <value>
-                      <FeaturePluginData displayName="Arquillian JUnit" pluginName="com.intellij.jboss.arquillian" pluginId="com.intellij.jboss.arquillian" bundled="true" />
-                    </value>
-                  </entry>
-                  <entry key="ArquillianTestNG">
-                    <value>
-                      <FeaturePluginData displayName="Arquillian TestNG" pluginName="com.intellij.jboss.arquillian" pluginId="com.intellij.jboss.arquillian" bundled="true" />
                     </value>
                   </entry>
                   <entry key="ChromiumRemoteDebugType">
@@ -102,11 +82,6 @@
                       <FeaturePluginData displayName="Gradle" pluginName="Gradle" pluginId="com.intellij.gradle" bundled="true" />
                     </value>
                   </entry>
-                  <entry key="GrailsRunConfigurationType">
-                    <value>
-                      <FeaturePluginData displayName="Grails" pluginName="Grails" pluginId="org.intellij.grails" bundled="true" />
-                    </value>
-                  </entry>
                   <entry key="GroovyScriptRunConfiguration">
                     <value>
                       <FeaturePluginData displayName="Groovy" pluginName="Groovy" pluginId="org.intellij.groovy" bundled="true" />
@@ -115,11 +90,6 @@
                   <entry key="HttpClient.HttpRequestRunConfigurationType">
                     <value>
                       <FeaturePluginData displayName="HTTP 请求" pluginName="HTTP Client" pluginId="com.jetbrains.restClient" bundled="true" />
-                    </value>
-                  </entry>
-                  <entry key="JBossConfiguration">
-                    <value>
-                      <FeaturePluginData displayName="JBoss/WildFly Server" pluginName="WildFly" pluginId="JBoss" bundled="true" />
                     </value>
                   </entry>
                   <entry key="JUnit">
@@ -165,11 +135,6 @@
                   <entry key="JetRunConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Kotlin" pluginName="Kotlin" pluginId="org.jetbrains.kotlin" bundled="true" />
-                    </value>
-                  </entry>
-                  <entry key="JettyConfiguration">
-                    <value>
-                      <FeaturePluginData displayName="Jetty Server" pluginName="Jetty" pluginId="Jetty" bundled="true" />
                     </value>
                   </entry>
                   <entry key="KotlinJavaScriptTestRunnerProtractor">
@@ -357,11 +322,6 @@
             <FeaturePluginsList>
               <option name="featureMap">
                 <map>
-                  <entry key="AspectJ">
-                    <value>
-                      <FeaturePluginData displayName="AspectJ" pluginName="AspectJ" pluginId="com.intellij.aspectj" bundled="true" />
-                    </value>
-                  </entry>
                   <entry key="Python">
                     <value>
                       <FeaturePluginData displayName="Python" pluginName="Pythonid" pluginId="Pythonid" />

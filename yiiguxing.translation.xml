@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="529" />
     <option name="newTranslationDialogY" value="203" />
     <histories>
+      <item value="handle" />
       <item value="nodify" />
       <item value="complier" />
       <item value="Supplier" />
@@ -54,7 +55,6 @@
       <item value="Launcher" />
       <item value="Modifier" />
       <item value="Modifiers" />
-      <item value="Dispatcher Servlet" />
     </histories>
     <option name="languageScores">
       <map>

@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="529" />
     <option name="newTranslationDialogY" value="203" />
     <histories>
+      <item value="returns true if the sorted array a[] contains any duplicated integers" />
+      <item value="Duplicates" />
       <item value="iterate" />
       <item value="handle" />
       <item value="nodify" />
@@ -53,8 +55,6 @@
       <item value="identical" />
       <item value="0: Shapes are different objects (yay!) 0: But they are not identical (booo!)" />
       <item value="Transmission" />
-      <item value="Launcher" />
-      <item value="Modifier" />
     </histories>
     <option name="languageScores">
       <map>

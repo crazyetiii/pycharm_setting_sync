@@ -9,9 +9,9 @@
   <component name="DaemonCodeAnalyzerSettings" profile="copy" />
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="18" />
-    <option name="FONT_FAMILY" value="FTEebcd1" />
-    <option name="FONT_REGULAR_SUB_FAMILY" value="Regular" />
-    <option name="FONT_BOLD_SUB_FAMILY" value="Regular" />
+    <option name="FONT_FAMILY" value="Cascadia Mono" />
+    <option name="FONT_REGULAR_SUB_FAMILY" value="Roman" />
+    <option name="FONT_BOLD_SUB_FAMILY" value="Roman" />
     <option name="USE_LIGATURES" value="true" />
   </component>
   <component name="EditorSettings">

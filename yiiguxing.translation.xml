@@ -5,13 +5,6 @@
     <option name="newTranslationDialogX" value="529" />
     <option name="newTranslationDialogY" value="203" />
     <histories>
-      <item value="returns true if the sorted array a[] contains any duplicated integers" />
-      <item value="Duplicates" />
-      <item value="iterate" />
-      <item value="handle" />
-      <item value="nodify" />
-      <item value="complier" />
-      <item value="Supplier" />
       <item value="Covariant Arrays" />
       <item value="Jonathan" />
       <item value="track" />
@@ -55,6 +48,13 @@
       <item value="identical" />
       <item value="0: Shapes are different objects (yay!) 0: But they are not identical (booo!)" />
       <item value="Transmission" />
+      <item value="Launcher" />
+      <item value="Modifier" />
+      <item value="Modifiers" />
+      <item value="Dispatcher Servlet" />
+      <item value="Eagerly check singleton cache for manually registered singletons" />
+      <item value="Instance" />
+      <item value="singletons Currently In Destruction" />
     </histories>
     <option name="languageScores">
       <map>
@@ -67,9 +67,14 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1655905298479" />
+    <option name="lastTrimTime" value="1636554561318" />
   </component>
   <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="true" />
+      </google-translate>
+    </option>
     <option name="phoneticFontFamily" value="Consolas" />
     <option name="primaryFontFamily" value="JetBrains Mono" />
     <option name="showExplanation" value="true" />

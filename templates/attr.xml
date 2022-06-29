@@ -19,7 +19,7 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="ps" value="public static " description="public static" toReformat="false" toShortenFQNames="true">
+  <template name="pst" value="public static &lt;T&gt; " description="public static &lt;T&gt;" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="OTHER" value="true" />
     </context>
@@ -40,6 +40,11 @@
     </context>
   </template>
   <template name="pf" value="public final " description="public final" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="st" value="Set&lt;T&gt; " description="Set&lt;T&gt;" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="OTHER" value="true" />
     </context>

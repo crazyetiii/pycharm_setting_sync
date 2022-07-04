@@ -67,14 +67,9 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1636554561318" />
+    <option name="lastTrimTime" value="1656945305122" />
   </component>
   <component name="Settings">
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="useTranslateGoogleCom" value="true" />
-      </google-translate>
-    </option>
     <option name="phoneticFontFamily" value="Consolas" />
     <option name="primaryFontFamily" value="JetBrains Mono" />
     <option name="showExplanation" value="true" />

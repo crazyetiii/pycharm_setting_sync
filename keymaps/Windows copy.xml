@@ -5,8 +5,13 @@
     <keyboard-shortcut first-keystroke="enter" />
     <keyboard-shortcut first-keystroke="alt enter" />
   </action>
+  <action id="ContextDebug">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
+  <action id="CopyElement" />
   <action id="Git.Rename.Local.Branch" />
   <action id="Git.Reword.Commit" />
+  <action id="Graph.RouteEdges" />
   <action id="ShelvedChanges.Rename" />
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.SetValue" />

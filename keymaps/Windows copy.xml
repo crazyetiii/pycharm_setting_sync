@@ -12,6 +12,9 @@
   <action id="Git.Rename.Local.Branch" />
   <action id="Git.Reword.Commit" />
   <action id="Graph.RouteEdges" />
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
   <action id="ShelvedChanges.Rename" />
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.SetValue" />

@@ -76,4 +76,16 @@
     <option name="translateDocumentation" value="true" />
     <option name="ttsSource" value="TRANSLATION" />
   </component>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1678872008802" />
+  </component>
+  <component name="Translation.Settings">
+    <option name="primaryLanguage" value="CHINESE" />
+    <option name="translator" value="MICROSOFT" />
+  </component>
+  <component name="Translation.States">
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="623" />
+    <option name="newTranslationDialogY" value="362" />
+  </component>
 </application>

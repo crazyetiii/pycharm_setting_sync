@@ -87,5 +87,14 @@
     <option name="newTranslationDialogWidth" value="598" />
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="362" />
+    <histories>
+      <item value="parameters are not represented" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="1" />
+        <entry key="ENGLISH" value="1" />
+      </map>
+    </option>
   </component>
 </application>

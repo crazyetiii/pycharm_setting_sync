@@ -77,7 +77,7 @@
     <option name="ttsSource" value="TRANSLATION" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1678872008802" />
+    <option name="lastTrimTime" value="1679910016563" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -88,12 +88,13 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="362" />
     <histories>
+      <item value="horizontal" />
       <item value="parameters are not represented" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1" />
+        <entry key="ENGLISH" value="2" />
       </map>
     </option>
   </component>

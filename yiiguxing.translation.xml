@@ -88,13 +88,14 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="362" />
     <histories>
+      <item value="Spacer" />
       <item value="horizontal" />
       <item value="parameters are not represented" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2" />
+        <entry key="CHINESE" value="2" />
+        <entry key="ENGLISH" value="3" />
       </map>
     </option>
   </component>

@@ -88,14 +88,15 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="362" />
     <histories>
+      <item value="There was an error fetching extended information for this repository." />
       <item value="Spacer" />
       <item value="horizontal" />
       <item value="parameters are not represented" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="3" />
+        <entry key="CHINESE" value="3" />
+        <entry key="ENGLISH" value="4" />
       </map>
     </option>
   </component>

@@ -88,6 +88,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="362" />
     <histories>
+      <item value="Size Constraint" />
       <item value="Size Grip" />
       <item value="Q Size Policy" />
       <item value="There was an error fetching extended information for this repository." />
@@ -97,8 +98,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="6" />
+        <entry key="CHINESE" value="6" />
+        <entry key="ENGLISH" value="7" />
       </map>
     </option>
   </component>

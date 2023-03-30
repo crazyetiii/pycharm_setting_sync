@@ -12,6 +12,7 @@
       <removed_mapping ext="permissionset" approved="true" type="XML" />
       <removed_mapping ext="profile" approved="true" type="XML" />
       <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="qss" approved="true" type="PLAIN_TEXT" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="space.kts" type="Kotlin" />

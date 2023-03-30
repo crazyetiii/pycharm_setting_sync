@@ -88,6 +88,11 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="362" />
     <histories>
+      <item value="set Central Widget" />
+      <item value="set Horizontal Stretch" />
+      <item value="set Vertical Stretch" />
+      <item value="Horizontal Stretch" />
+      <item value="set Stretch" />
       <item value="Size Constraint" />
       <item value="Size Grip" />
       <item value="Q Size Policy" />
@@ -98,8 +103,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6" />
-        <entry key="ENGLISH" value="7" />
+        <entry key="CHINESE" value="13" />
+        <entry key="ENGLISH" value="14" />
       </map>
     </option>
   </component>

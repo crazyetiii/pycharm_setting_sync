@@ -13,4 +13,11 @@
       <option name="WORKING_DIRECTORY" value="$OutputPath$" />
     </exec>
   </tool>
+  <tool name="UI2Py" description="ui file to py file" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="D:\Program Files (x86)\py37_32\Scripts\pyuic5.exe" />
+      <option name="PARAMETERS" value="$FileName$ -o $FileNameWithoutExtension$.py" />
+      <option name="WORKING_DIRECTORY" value="$FileDir$" />
+    </exec>
+  </tool>
 </toolSet>

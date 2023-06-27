@@ -16,6 +16,7 @@
     <option name="widgets">
       <map>
         <entry key="Position" value="false" />
+        <entry key="TranslationWidget" value="false" />
       </map>
     </option>
   </component>
